@@ -1,1 +1,1 @@
-# simplebank
+# simplebank PostgreSQL client
